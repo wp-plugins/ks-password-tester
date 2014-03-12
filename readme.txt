@@ -17,13 +17,13 @@ It also helps you to generate better secured password.
 
 == Installation ==
 1. Upload the `ks-password-tester` folder to the `/wp-content/plugins/` directory
-2. Activate the Menu Exporter 
+2. Activate the KS Password Tester 
 
 == Frequently Asked Questions ==
 None
 
 == Screenshots ==
-1. http://karunshakya.com.np/wp-content/uploads/2014/03/index.jpg
+1. screenshot-1.jpg
 
 == Changelog ==
 1.0
