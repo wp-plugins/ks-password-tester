@@ -23,7 +23,7 @@ It also helps you to generate better secured password.
 None
 
 == Screenshots ==
-1. screenshot-1.jpg
+1. Screenshot in the admin area
 
 == Changelog ==
 1.0
