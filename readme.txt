@@ -1,5 +1,5 @@
 === KS Password Tester ===
-Contributors: karun
+Contributors: karunshakya45
 Tags: password, strength, security, test, tester
 Donate link: http://karunshakya.com.np/donate
 Requires at least: 3.0
